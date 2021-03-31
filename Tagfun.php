@@ -1,6 +1,4 @@
 <?php
-namespace KC;
-
 // Replace tags by function output
 class Tagfun {
     static function r($str, $tg1, $tg2, $fun) {
